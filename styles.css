@@ -127,7 +127,7 @@
       border-radius: 50%;
        background:
         linear-gradient(rgba(255,255,255,0.08), rgba(255,255,255,0.08)),
-        url('photos/BOTIN_Formal.png') center/cover no-repeat;
+        url('/photos/BOTIN_Formal.png') center/cover no-repeat;
       border: 6px solid rgba(255,255,255,0.08);
       box-shadow: var(--shadow);
       justify-self: center;
